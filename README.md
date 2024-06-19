@@ -2,6 +2,9 @@
 
 This web application allows users to add captions to a hosted video. Users can enter a video URL, provide captions with specific timestamps, and view the video with overlaid captions.
 
+## Live preview:
+https://video-captioner-app.netlify.app/
+
 ## Features
 
 - **Video Player**: Displays the video with captions overlaid based on user-provided timestamps.
@@ -32,3 +35,8 @@ To run this application locally:
 4. Open http://localhost:3000 in your browser to view the app.
 
 5. To test the app, you can use this sample video url "https://cdn.pixabay.com/video/2024/02/02/199001-909564581_tiny.mp4".
+
+## Screenshot:
+
+![video-captioner-ss-1](https://github.com/yogesh-rai/video-captioner/assets/69380654/66c72cfd-a78d-41b3-8755-0570f657502e)
+
